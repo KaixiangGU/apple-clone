@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: SFProText;
-  src: url(./fonts/FontsFree-Net-SFProText-Light-1.ttf);
+  src: url(fonts/FontsFree-Net-SFProText-Light-1.ttf);
 }
 @font-face {
   font-family: SFProDisplay;
-  src: url(/fonts/SFPRODISPLAYREGULAR.OTF);
+  src: url(fonts/SFPRODISPLAYREGULAR.OTF);
 }
 :root {
   --sf-pro-text: SFProText;
