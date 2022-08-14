@@ -250,23 +250,23 @@ body {
 /* macbook */
 
 .macbook-h3 {
-  background-image: url("/image/supercharge_black.png");
+  background-image: url("image/supercharge_black.png");
 }
 
 .unit-image-macbook {
-  background-image: url("/image/macbookair__mobile.png");
+  background-image: url("image/macbookair__mobile.png");
 }
 
 /* iphone13 */
 
 .unit-image-iphone13 {
-  background-image: url("/image/iphone13_mobile.jpg");
+  background-image: url("image/iphone13_mobile.jpg");
 }
 
 /* back to school */
 
 .unit-image-back-to-school {
-  background-image: url("/image/bts_mobile.jpg");
+  background-image: url("image/bts_mobile.jpg");
 }
 
 .back-to-school-h2 {
@@ -663,7 +663,7 @@ body {
   }
 
   .unit-image-macbook {
-    background-image: url("/image/macbookair_medium.png");
+    background-image: url("image/macbookair_medium.png");
   }
 
   .unit-image-iphone13 {
@@ -725,11 +725,11 @@ body {
   }
 
   .unit-image-iphone13 {
-    background-image: url("/image/iphone13.jpg");
+    background-image: url("image/iphone13.jpg");
   }
 
   .unit-image-back-to-school {
-    background-image: url("/image/bts.jpg");
+    background-image: url("image/bts.jpg");
   }
 
   .unit-grid-wrapper {
